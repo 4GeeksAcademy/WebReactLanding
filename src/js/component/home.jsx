@@ -17,7 +17,9 @@ const Home = () => {
 				<Navbar />
 			</div>
 			<div className="row">
-				<Jumbotron />
+				<div className="col-12">
+					<Jumbotron />
+				</div>
 			</div>
 			<div className="row justify-content-evenly">		
 				{cardsinHTML}

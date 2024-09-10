@@ -10,3 +10,19 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+#wolf {
+    width: 40px;
+    height:40px;
+};
+
+.navbar-toggler-icon {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba(255, 255, 255, 255)' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e") !important;
+};
+
+.jumbotron.bg-light.my-5.mx-3.py-5.px-5 {
+    
+}
+
+.card-footer.d-flex.justify-content-center.bg-light{
+
+}
